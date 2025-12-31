@@ -1,4 +1,3 @@
-<div align="center"><img height="" src="https://i.pinimg.com/originals/aa/96/b6/aa96b63d7b1460c7f6572a2fdcbe73e5.gif"  /></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="28" alt="html5 logo"  />
   <img width="12" />
@@ -21,3 +20,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo"  />
   <img width="12" />
 </div>
+
+<div align="center"><img height="50" src="https://i.pinimg.com/originals/aa/96/b6/aa96b63d7b1460c7f6572a2fdcbe73e5.gif"  /></div>
