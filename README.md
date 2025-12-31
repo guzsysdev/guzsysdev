@@ -1,7 +1,4 @@
-<div align="center">
-     <img height="" src="https://i.pinimg.com/736x/47/5d/77/475d77f2774898b622f440f5bc9b1b8d.jpg"  />
-</div>
-###
+<div align="center"><img height="" src="https://i.pinimg.com/736x/47/5d/77/475d77f2774898b622f440f5bc9b1b8d.jpg"  /></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="28" alt="html5 logo"  />
   <img width="12" />
