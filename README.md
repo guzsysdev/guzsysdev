@@ -15,7 +15,7 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/guzsysdev/guzsysdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/guzsysdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
